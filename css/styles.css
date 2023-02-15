@@ -75,7 +75,8 @@ body {
 }
 
 #logo_img {
-    /* size: 100px !important; */
+    height: 500px;
+    width: 500px;
     border-radius: 20px;
 
 }
